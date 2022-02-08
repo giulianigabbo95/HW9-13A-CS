@@ -1,0 +1,10 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\bin\Debug\12_A-13_A.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\bin\Debug\12_A-13_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\bin\Debug\12_A-13_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\12_A-13_A.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\12_A-13_A.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\12_A-13_A.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\12_A-13_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\12_A - 13_A\obj\Debug\12_A-13_A.pdb

@@ -1,0 +1,20 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\bin\Debug\Bernoulli.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\bin\Debug\Bernoulli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\bin\Debug\Bernoulli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 - Bernoulli Distribution\obj\Debug\Bernoulli.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\bin\Debug\Bernoulli.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\bin\Debug\Bernoulli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\bin\Debug\Bernoulli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\5 bis - Bernoulli Distribution\obj\Debug\Bernoulli.csprojAssemblyReference.cache

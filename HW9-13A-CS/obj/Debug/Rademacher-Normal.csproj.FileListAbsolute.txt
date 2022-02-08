@@ -1,0 +1,10 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\Rademacher-Normal.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\Rademacher-Normal.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\bin\Debug\Rademacher-Normal.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\bin\Debug\Rademacher-Normal.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\bin\Debug\Rademacher-Normal.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\Rademacher-Normal.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\Rademacher-Normal.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6b - Rademacher-Normal Distribution\obj\Debug\Rademacher-Normal.csprojAssemblyReference.cache

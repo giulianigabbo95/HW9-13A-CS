@@ -1,0 +1,19 @@
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.exe.config
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.exe
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.pdb
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.csprojAssemblyReference.cache
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.csproj.GenerateResource.cache
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.csproj.CoreCompileInputs.cache
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.exe
+C:\Users\stefano.giuliani\Documents\Visual Studio 2017\Projects\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\bin\Debug\Glivenko-Cantelli.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\6a - Glivenko-Cantelli\obj\Debug\Glivenko-Cantelli.pdb

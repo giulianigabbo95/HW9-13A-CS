@@ -1,0 +1,10 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\bin\Debug\12_A.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\bin\Debug\12_A.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\bin\Debug\12_A.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\HW9-13A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\MyHomework.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\HW9-13A-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\HW9-13A-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\12_A.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW9\Programmi\13A\HW9-13A-CS\obj\Debug\12_A.pdb

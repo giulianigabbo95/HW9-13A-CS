@@ -1,0 +1,50 @@
+D:\Università\Statistics\Assignments_A\13_A\13_A\bin\Debug\13_A.exe.config
+D:\Università\Statistics\Assignments_A\13_A\13_A\bin\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A\13_A\bin\Debug\13_A.pdb
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\13_A.csprojAssemblyReference.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\_13_A.Form1.resources
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\_13_A.Properties.Resources.resources
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\13_A.csproj.GenerateResource.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\13_A.csproj.CoreCompileInputs.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A\13_A\obj\Debug\13_A.pdb
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\bin\Debug\13_A.exe.config
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\bin\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\bin\Debug\13_A.pdb
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\13_A.csprojAssemblyReference.cache
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\_13_A.Form1.resources
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\_13_A.Properties.Resources.resources
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\13_A.csproj.GenerateResource.cache
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\13_A.csproj.CoreCompileInputs.cache
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A_2.0\13_A\obj\Debug\13_A.pdb
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\bin\Debug\13_A.exe.config
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\bin\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\bin\Debug\13_A.pdb
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\13_A.csprojAssemblyReference.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\_13_A.Form1.resources
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\_13_A.Properties.Resources.resources
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\13_A.csproj.GenerateResource.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\13_A.csproj.CoreCompileInputs.cache
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\13_A.exe
+D:\Università\Statistics\Assignments_A\13_A\13_A_2.0\13_A\obj\Debug\13_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\bin\Debug\13_A.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\bin\Debug\13_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\bin\Debug\13_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\13_A.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\_13_A.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\_13_A.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\13_A.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\13_A.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\13_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks from other\S2\13_A\obj\Debug\13_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\bin\Debug\12_A.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\bin\Debug\12_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\bin\Debug\12_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\13_A.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\13_A.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\12_A.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\12_A.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\13_A\obj\Debug\13_A.csprojAssemblyReference.cache
